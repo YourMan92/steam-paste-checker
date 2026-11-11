@@ -1,0 +1,14 @@
+# lang: term   (* = all languages). From the buyer's avoid list, mapped per language.
+zh-Hans: 治愈
+zh-Hans: 沉浸式
+zh-Hans: 生存建造
+ja: 癒し
+ja: 没入感
+ja: ほっこり
+ko: 힐링
+ko: 몰입감
+*: Steam Deck 认证
+*: Steam Deck 認証
+*: Steam Deck 인증
+*: NFT
+*: AI生成

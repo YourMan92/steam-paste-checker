@@ -1,0 +1,12 @@
+term_en,zh-Hans,ja,ko,rule,note
+Low Tide Salvage,退潮打捞,ロータイド・サルベージ,로우 타이드 샐비지,keep EN title on page + optional localized name,zh translated (meaning); ja/ko transliterated (common for EN titles); EN title kept as search fallback
+Whitlow,惠特洛,ホイットロー,휘틀로,transliterate,fictional town; consistent every time
+Ebb & Quarry,Ebb & Quarry,Ebb & Quarry,Ebb & Quarry,do not translate,studio name
+tide clock,潮汐钟,潮時計,조수 시계,translate,core mechanic; same term in About and features
+free-roam tides,自由漫游|自由探索,フリーローム,자유 탐험,translate,post-game mode
+quay,码头,波止場,부두,translate,
+high street,主街,大通り,중심가,translate,UK term; not "commercial district"
+salvage,打捞,サルベージ,인양|건져,translate,genre word; avoid 搜刮/漁る/파밍 in body (looting connotation)
+Dredge,Dredge,Dredge,Dredge,keep EN,official localized titles not verified; EN kept
+A Short Hike,A Short Hike,A Short Hike,A Short Hike,keep EN,
+Unpacking,Unpacking,Unpacking,Unpacking,keep EN,

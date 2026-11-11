@@ -1,0 +1,35 @@
+===== GAME NAME =====
+Low Tide Salvage
+
+===== SHORT DESCRIPTION =====
+A salvage adventure about a market town that only exists at low tide. You have six hours to walk Whitlow's drowned high street, haul what you can carry, and decide what to bring back before the water returns.
+
+===== ABOUT THIS GAME =====
+Each morning the sea pulls back, and the market town of Whitlow is there again for six hours. I walk the wet high street, step over kelp in the butcher's doorway, and decide what is worth carrying to the quay before the tide takes the town away.
+
+There is no combat and no inventory tetris for its own sake. The limit is the clock, the weight, and whether a chapel pew will actually fit through the bakery door when the water is already at the step.
+
+[b]What you do[/b]
+[list]
+[*]Watch the tide clock, then walk Whitlow while it is a town and not a wreck.
+[*]Salvage stock, signs, letters, and furniture. What you keep, sell, or use to restore a shop is the whole loop.
+[*]Reopen a bakery, a radio shop, a ferry kiosk. Restored shops change what the next low tide leaves behind, and who is waiting on the quay when the water is high.
+[*]Read the town through objects: ledgers, recipes, half-finished notes. There is no quest marker pointing at the flood.
+[*]Finish a story in about six to eight hours, then go back for free-roam tides if you still have streets you want to walk.
+[/list]
+
+If you liked the atmosphere and salvage of [i]Dredge[/i], the finished short walk of [i]A Short Hike[/i], or the way [i]Unpacking[/i] tells a life through objects, this is in that neighbourhood. It is not a survival game, not a roguelike, and not a horror title. The sea is a clock, not a monster.
+
+Coming to Windows, macOS, and Linux on 18 March 2027. $16.99.
+
+===== KEY FEATURES =====
+- A visible tide clock: when it hits zero, you leave with what you can carry
+- Encumbrance and doorways as the main pressure, not combat
+- Shop restoration that changes what later tides leave behind
+- Object-led story: letters, ledgers, and signs instead of a marker trail
+- A finished campaign of about six to eight hours, plus free-roam tides
+- Original music built from harbour bells, a leaky radio, and a small accordion
+
+===== CAPSULE TEXT =====
+Title: Low Tide Salvage
+Tagline: The sea is a clock, not a monster.
